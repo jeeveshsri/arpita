@@ -12,12 +12,12 @@ const Surprise = () => {
   const navigate = useNavigate();
 
   const buttonLabels = [
-    "Lights On",
-    "Play Music",
+    "Batti jalawa",
+    "Gaana bajavu baachi",
     "Decorate",
     "Fly the Balloons",
-    "Let's Cut the Cake Madam Ji",
-    "Well, I Have a Message for You Madam Ji"
+    "cake kaat mc",
+    "Ek msg h padhne ke liye dabao (ye button)"
   ];
 
   const handleClick = () => {
